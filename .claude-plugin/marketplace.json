@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "ralplan-marketplace",
-  "description": "Marketplace source for the ralplan Claude Code plugin.",
+  "name": "blackzhuge-marketplace",
+  "description": "Marketplace source for the Claude Code plugin.",
   "owner": {
     "name": "blackzhuge"
   },
