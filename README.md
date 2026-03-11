@@ -7,7 +7,7 @@
 发布到 GitHub 后，如果该仓库同时作为 marketplace 源，也可以按如下方式安装：
 
 ```text
-/plugin marketplace add https://github.com/blackzhuge/ralplan
+/plugin marketplace add https://github.com/blackzhuge/blackzhuge-marketplace
 /plugin install ralplan
 ```
 
