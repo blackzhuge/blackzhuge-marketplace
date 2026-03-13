@@ -9,7 +9,7 @@
     {
       "name": "ralplan",
       "description": "Native Claude Code consensus-planning plugin with standalone skill, agents, hooks, and project-local runtime state.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "blackzhuge"
       },
